@@ -1,0 +1,5 @@
+birth_year  = input("enter your birthyear:" )
+age = 2024-int(birth_year)
+name = input("what is your name?" )
+print("hello, dear " + name)
+print( "your age is " + str(age))
